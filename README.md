@@ -19,3 +19,5 @@ Informações solicitadas:
 6) É possível personalizar a análise com filtros por ano, departamento, raça, gênero e cargo?
 
 Com esses questionamentos, conseguiremos nos nortear em relação às necessidades a serem atendidas com o projeto que iremos iniciar. Por meio do relatório personalizado, a ideia é possibilitar maior êxito e performance no mundo dos negócios. Dessa forma, é importante revisitarmos esses parâmetros no decorrer do desenvolvimento para verificar se estaremos suprindo a expectativa da empresa demandante.
+
+Projeto Completo aqui: https://app.powerbi.com/view?r=eyJrIjoiYmUzZDNiNzgtNTUyMC00YjI3LThjMTQtMjEzNTRkZTBmOTRjIiwidCI6Ijk4ZDhhMWEyLWMzYWUtNGFlMi05ZTIxLTFjYTVhOTEyNzRjZSJ9
